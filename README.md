@@ -74,7 +74,7 @@ Divit Gautam
 Technical Support Executive | Aspiring Data Analyst
 📍 Jaipur, India
 
-GitHub: (add your profile link)
+GitHub: https://github.com/Divit24/
 
 LinkedIn: https://www.linkedin.com/in/divit-gautam/
 
